@@ -10,11 +10,11 @@ ServerStatus 是一个开源的服务器监控探针软件，[点击此处](http
 
 ## 开发团队
 ### 云游科社
-策划：**YuKiRoKi**
+- 策划：**YuKiRoKi**
 
-程序：**线粒体XianlitiCN**
+- 程序：**线粒体XianlitiCN**
 
-技术顾问：**白诺（bainuo）**
+- 技术顾问：**白诺（bainuo）**
 
 ---
 
